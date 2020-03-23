@@ -2,6 +2,13 @@
 ###### This is the repository for a small data science project for SFG 2020 
 #
 #
+###### Download the repository
+- Manual download:
+    ![download as zip file](./screenshots/howTo.png)
+- git CLI:
+     ```bash
+        git clone https://github.com/Software-Focus-Group/SFG2020_Project
+
 ###### Run the code
 - ```python
     pip install -r requirements.txt 
